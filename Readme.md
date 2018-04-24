@@ -1,4 +1,4 @@
-# Dracula theme
+# Dracula theme for CudaText
 
 Dracula dark theme for the [CudaText](https://github.com/Alexey-T/CudaText) editor.
 
@@ -9,6 +9,8 @@ Syntax color table: [dracula_syntax.html](http://www.pazera-software.com/cudatex
 
 ![CudaText - Dracula theme](http://www.pazera-software.com/cudatext/themes/cudatext_dracula.png)
 
+# Install
+Download **theme.Dracula.zip** file, run the CudaText editor, drop this file on the main window and confirm installation. Select menu `Options -> Color themes -> UI -> dracula`.
 
-# How to install a theme?
-Download **ZIP** file, run the CudaText editor, drop this file on the main window and confirm installation. Select menu `Options -> Color themes -> UI -> THEME_NAME`.
+# License
+[MIT](https://github.com/jackdp/Dracula-CudaText/blob/master/LICENSE)
