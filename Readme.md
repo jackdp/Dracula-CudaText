@@ -11,8 +11,16 @@ Syntax color table: [dracula_syntax.html](http://www.pazera-software.com/cudatex
 
 ![CudaText - Dracula theme - Screenshot 2](http://www.pazera-software.com/cudatext/themes/cudatext_dracula_2.png)
 
-# Install
+## Install
 Download **theme.Dracula.zip** file, run the CudaText editor, drop this file on the main window and confirm installation. Select menu `Options -> Color themes -> UI -> dracula`.
 
-# License
-[MIT](https://github.com/jackdp/Dracula-CudaText/blob/master/LICENSE)
+## Team
+
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/cudatext/graphs/contributors).
+
+[![Jacek Pazera](https://avatars1.githubusercontent.com/u/22514813?s=460&v=4)](https://github.com/jackdp) | 
+--- | ---
+[Jacek Pazera](https://github.com/jackdp) |
+
+## License
+[MIT License](./LICENSE)
