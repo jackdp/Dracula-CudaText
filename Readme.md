@@ -19,7 +19,7 @@ Download **theme.Dracula.zip** file, run the CudaText editor, drop this file on 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/cudatext/graphs/contributors).
 
 [![Jacek Pazera](https://avatars1.githubusercontent.com/u/22514813?s=460&v=4)](https://github.com/jackdp) | 
---- | ---
+--- |
 [Jacek Pazera](https://github.com/jackdp) |
 
 ## License
