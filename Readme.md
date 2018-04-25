@@ -20,7 +20,7 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 
 [![Jacek Pazera](https://avatars1.githubusercontent.com/u/22514813?s=460&v=4)](https://github.com/jackdp) | 
 --- |
-[Jacek Pazera](https://github.com/jackdp) |
+| [Jacek Pazera](https://github.com/jackdp) |
 
 ## License
 [MIT License](./LICENSE)
