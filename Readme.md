@@ -11,8 +11,11 @@ Syntax color table: [dracula_syntax.html](http://www.pazera-software.com/cudatex
 
 ![CudaText - Dracula theme - Screenshot 2](http://www.pazera-software.com/cudatext/themes/cudatext_dracula_2.png)
 
+
 ## Install
+
 Download **theme.Dracula.zip** file, run the CudaText editor, drop this file on the main window and confirm installation. Select menu `Options -> Color themes -> UI -> dracula`.
+
 
 ## Team
 
@@ -22,5 +25,14 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 --- |
 | [Jacek Pazera](https://github.com/jackdp) |
 
+
 ## License
+
 [MIT License](./LICENSE)
+
+
+## Changelog
+
+28.04.2019  
+New UI items: `EdMinimapTooltipBg`, `EdMinimapTooltipBorder`, `EdBlockStapleActive`, `TreeSelBg2`. Removed `TreeLines`.
+Changed syntax items: `Lex_TextBold`, `Lex_TextItalic`, `Lex_TextBoldItalic`, `Lex_TextCross`.
