@@ -13,7 +13,7 @@ Syntax color table: [dracula_syntax.html](https://www.pazera-software.com/files/
 
 ## Install
 
-Download **theme.Dracula.zip** file, run the CudaText editor, drop this file on the main window and confirm installation. Select menu `Options -> Color themes -> UI -> dracula`.
+Download **theme.Dracula.zip** file (from Releases page), run the CudaText editor, drop this file on the main window and confirm installation. Select menu `Options -> Color themes -> UI -> dracula`.
 
 ## Team
 
